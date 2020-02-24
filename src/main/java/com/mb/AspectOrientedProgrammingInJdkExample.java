@@ -12,6 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * @author khanhhm.os
  * This class to verify an AOP example using JDK proxy.
  */
 public class AspectOrientedProgrammingInJdkExample {
